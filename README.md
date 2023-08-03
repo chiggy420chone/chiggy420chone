@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiggy420chone 
 - 👀 I’m interested in ... WEB APPLICATION DEVELOPMENT
-- 🌱 I’m currently learning ... reactjs react-redux react-router-dom react-bootstrap  
+- 🌱 I’m currently learning ... to build Web API Projects.
 - 💞️ I’m looking to collaborate on ... START-UPS PROJECT
 - 📫 How to reach me ... EMAIL:chiggy420chone@gmail.com
 
